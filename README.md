@@ -4,11 +4,9 @@
 # 💫About Me :
 🔭 I’m currently working on  a lot of side projects
 
-🌱 I'm currently learning Blockchain
+🌱 I'm currently learning Artificial intelligence
 
 👯 I'm looking to collaborate on full-stack web apps!
-
-🤔 I'm looking for help with Typescript and React
 
 💬 Ask me about Laravel, Nodejs
 
